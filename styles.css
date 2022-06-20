@@ -123,6 +123,7 @@ body {
     color: var(--branco-principal);
     background-color: var(--botao-azul);
     border: none;
+    margin-top: 16px;
 }
 
 .container__final {
